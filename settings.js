@@ -11,8 +11,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = ````📤 Hey I am alive now...```
-👨‍💻How can I help you?😌♥️` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `📤 Hey I am alive now.😌♥️
+💻How can I help you?😌♥️` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
